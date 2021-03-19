@@ -1,0 +1,11 @@
+[Looker]
+# API version is required
+api_version=3.1
+# Base URL for API. Do not include /api/* in the url
+base_url=https://<your_instance>.looker.com:19999
+# API 3 client id
+client_id=
+# API 3 client secret
+client_secret=
+# Set to false if testing locally against self-signed certs. Otherwise leave True
+verify_ssl=True

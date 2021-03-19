@@ -1,0 +1,2 @@
+looker-sdk==0.1.3b4
+python-decouple==3.2
